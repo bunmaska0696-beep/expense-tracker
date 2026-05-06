@@ -1,0 +1,26 @@
+[
+    {
+        "name": "tshirt",
+        "amount": 500.0
+    },
+    {
+        "name": "tshirt",
+        "amount": 640.0
+    },
+    {
+        "name": "milk",
+        "amount": 50.0
+    },
+    {
+        "name": "C:\\Users\\reema\\AppData\\Local\\Programs\\Python\\Python314\\python.exe \"c:/Users/reema/Downloads/Python programs/Expense Tracker/main.py\"",
+        "amount": 56.0
+    },
+    {
+        "name": "Coffee",
+        "amount": 500.0
+    },
+    {
+        "name": "jacket",
+        "amount": 2000.0
+    }
+]
